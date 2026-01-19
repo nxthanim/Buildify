@@ -1,0 +1,5 @@
+{
+  "name": "Buildify",
+  "description": "An AI-powered platform for entrepreneurs to generate web applications from simple text descriptions. Describe your app idea, and Buildify's AI will scaffold the core features, UI, and logic for you.",
+  "requestFramePermissions": []
+}
